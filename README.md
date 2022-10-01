@@ -1,5 +1,5 @@
 # Sharing
-分享學習紀錄
+學習紀錄
 ## 1. Python
 ## 2. C++
 ## 3. Algorithm with C++
