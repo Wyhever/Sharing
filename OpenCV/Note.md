@@ -1,5 +1,6 @@
 # OpenCV 影像處理 
 使用Python
+參考書籍: 科班出身的AI人必修課: OpenCV影像處理使用Python
 ## 01 OpenCV 入門
 1. 基本操作
     1. 讀取影像: cv2.imread(filename)
