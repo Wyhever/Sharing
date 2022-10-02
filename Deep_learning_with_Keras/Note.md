@@ -1,4 +1,5 @@
 # Deep learning using keras
+參考書籍: Deep learning深度學習必讀: Keras大神帶你用Python實作
 #### Deep learning, Python, Keras
 #### https://github.com/fchollet/deep-learning-with-python-notebooks
 ## 第一章 何謂深度學習?
