@@ -1,4 +1,5 @@
-# Linux_Shell
+# Linux Shell
+參考書籍: Linux Shell 程式設計與管理實務
 ## Chapter 1 Shell 簡介
 ### 1. Linux/BSD 系統
     1. 核心 (kernel)
