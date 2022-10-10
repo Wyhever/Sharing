@@ -1,5 +1,5 @@
 # Graphical Algorithm using C++
-圖說演算法 使用C++
+使用C++圖說演算法
 
 ## Chapter 1 運算思維與程式設計
 1. 演算法條件: 輸入、輸出、有限、有效、明確
