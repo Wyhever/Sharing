@@ -1,6 +1,4 @@
 # CPP-introduction
-C++ learning plan
-
 參考至C++全方位學習第四版
 ## Chapter 01 程式設計概論
 ### 註解方法:
