@@ -4,9 +4,9 @@
 #### https://github.com/fchollet/deep-learning-with-python-notebooks
 ## 第一章 何謂深度學習?
 1. 演算法
-   1. 更好的啟動函數(activation function)
-   2. 更好的權重初始化方式(weight-initialization schemes)，從分層預訓練開始，可以快速完成訓練
-   3. 更好的最佳化方式(optimization schemes)
+   1. 更好的啟動函數 (activation function)
+   2. 更好的權重初始化方式 (weight-initialization schemes)，從分層預訓練開始，可以快速完成訓練
+   3. 更好的最佳化方式 (optimization schemes)
 ## 第二章 開始之前:了解神經網路的數學概念
 1. 機器學習的工作程序
     1. 隨機梯度下降
