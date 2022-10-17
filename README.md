@@ -1,7 +1,7 @@
 # Sharing
 學習紀錄
 ## 1. Python
-參考書籍:第一次學Python就上手(2017 陳惠貞)
+參考書籍:第一次學Python就上手 (2017 陳惠貞)
 ## 2. C++
 參考書籍: C++全方位學習第四版
 ## 3. Algorithm with C++
